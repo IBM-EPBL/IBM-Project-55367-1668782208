@@ -21,7 +21,7 @@ complexity of the network by adding a sub layer after each convolution layer
 
 ### Team Members
 
-> 1.KATHIRESAN V
-> 2.KRISHNAKUMAR D
-> RAMJI P
-> RAMMOHAN R
+>> 1.KATHIRESAN V
+>> 2.KRISHNAKUMAR D
+>> 3.RAMJI P
+>> 4.RAMMOHAN R
