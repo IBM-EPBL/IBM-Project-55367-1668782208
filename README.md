@@ -4,8 +4,8 @@
 
 ###  _Project Information_
 
->> Team Id : PNT2022TMID45737
->> Technology : Artificial Intelligence
+> Team Id : PNT2022TMID45737
+> Technology : Artificial Intelligence
 
 #### _Project Description_
 
